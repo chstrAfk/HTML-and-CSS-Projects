@@ -1,0 +1,9 @@
+p {
+color: green;
+background: black;
+font-weight: bold;
+text-allign: right;
+}
+h1 {
+	text-shadow: 0px 0px 10px green;
+}
